@@ -21,4 +21,12 @@ fn main() {
     rustlings::functions::functions2();
     rustlings::functions::functions3();
     rustlings::functions::functions4();
+
+    // primitive types exercises
+    rustlings::primitive_types::primitive_types1();
+    rustlings::primitive_types::primitive_types2();
+    rustlings::primitive_types::primitive_types3();
+    rustlings::primitive_types::primitive_types4();
+    rustlings::primitive_types::primitive_types5();
+    rustlings::primitive_types::primitive_types6();
 }
