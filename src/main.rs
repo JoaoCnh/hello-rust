@@ -15,4 +15,10 @@ fn main() {
     rustlings::variables::variables2();
     rustlings::variables::variables3();
     rustlings::variables::variables4();
+
+    // functions exercises
+    rustlings::functions::functions1();
+    rustlings::functions::functions2();
+    rustlings::functions::functions3();
+    rustlings::functions::functions4();
 }
