@@ -33,4 +33,7 @@ fn main() {
     // tests exercises
     rustlings::tests::is_even(2);
     rustlings::tests::times_two(2);
+
+    // ifs exercises
+    rustlings::ifs::bigger(2, 4);
 }
