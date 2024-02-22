@@ -29,4 +29,8 @@ fn main() {
     rustlings::primitive_types::primitive_types4();
     rustlings::primitive_types::primitive_types5();
     rustlings::primitive_types::primitive_types6();
+
+    // tests exercises
+    rustlings::tests::is_even(2);
+    rustlings::tests::times_two(2);
 }
