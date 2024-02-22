@@ -36,4 +36,9 @@ fn main() {
 
     // ifs exercises
     rustlings::ifs::bigger(2, 4);
+
+    // strings exercises
+    rustlings::strings::strings1();
+    rustlings::strings::strings2();
+    rustlings::strings::strings3();
 }
