@@ -4,3 +4,4 @@ pub mod primitive_types;
 pub mod tests;
 pub mod ifs;
 pub mod strings;
+pub mod move_semantics;

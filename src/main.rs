@@ -41,4 +41,9 @@ fn main() {
     rustlings::strings::strings1();
     rustlings::strings::strings2();
     rustlings::strings::strings3();
+
+    // move semantics exercises
+    rustlings::move_semantics::move_semantics2();
+    rustlings::move_semantics::move_semantics3();
+    rustlings::move_semantics::move_semantics4();
 }
